@@ -45,3 +45,6 @@ In this project the JetsonNano is connected via **Visual studio code** using ssh
 
 Get the files **RunMe.py** and **supports_Draft_2.py** into the folder **Project_1** in JetsonNano.
 Run the RunMe.py
+
+#### References
+The codes and other resources used throughout this project are from the lecture's/Lab's of Mr.Maxwel and Dr.Song.
